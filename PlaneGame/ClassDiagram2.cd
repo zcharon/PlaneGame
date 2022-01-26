@@ -1,0 +1,158 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<ClassDiagram MajorVersion="1" MinorVersion="1">
+  <Class Name="CAboutDlg">
+    <Position X="25.25" Y="0.75" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CAboutDlg::__unnamed_enum_001f_1" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneGame.cpp</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAABAABAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneGame.cpp</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBall">
+    <Position X="5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAICAAABACggAAAAAAAIAAAAAAAAAAAQAAAAAAEAA=</HashCode>
+      <FileName>Ball.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="bigBall">
+    <Position X="9.5" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAICAAAAAAggAACAAAAAAAAAAABAAAAQABAAAAAAA=</HashCode>
+      <FileName>bigBall.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CBomb">
+    <Position X="11.75" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAEAIAAAAAAAggAAAAAAAAAAIAAAAAAAAQABABAAAAA=</HashCode>
+      <FileName>Bomb.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss">
+    <Position X="17.25" Y="3.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAACAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA=</HashCode>
+      <FileName>Boss.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss1">
+    <Position X="16.25" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEECIAAAAAAAAgAAAAAIACAAwAAAABgAAQAAAgBABgw=</HashCode>
+      <FileName>Boss1.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss2">
+    <Position X="18.5" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEECIAAAAAAAAgAAAAAIACAAwAAAABgAARAAAgBABgQ=</HashCode>
+      <FileName>Boss2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="Boss3">
+    <Position X="20.75" Y="8.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEECIAAAAAAAAgAAAAAIACAAwAAAABgAAYAAAgBABgQ=</HashCode>
+      <FileName>Boss3.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="BossFinal">
+    <Position X="23" Y="8" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEECIAAAAAAAAgIAAAAIACAAwAgAAAgAAQAAAgBABgQ=</HashCode>
+      <FileName>BossFinal.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy">
+    <Position X="19.75" Y="1.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAgAAAAAICCAAwBAAAAgACQAAAABABAQ=</HashCode>
+      <FileName>Enemy.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CEnemy2">
+    <Position X="9.5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAACAgAAAAAIACAAwAAAAAwACQAAAABABAQ=</HashCode>
+      <FileName>Enemy2.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CExplosion">
+    <Position X="7.25" Y="2" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAGAIAAAABAAAgAAAAAAAAAAAAAAAAAAAQAQBAAAAAA=</HashCode>
+      <FileName>Explosion.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CGameObject">
+    <Position X="14" Y="0.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAIAAAAAAAAgAAAAAAAAAAAAIAAAAAAQAAgAAAAEA=</HashCode>
+      <FileName>GameObject.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="life">
+    <Position X="14" Y="3.5" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEEAIAAAAAAAAgAAgAAAAAAAQAAAAAgAgQAAAAAABAA=</HashCode>
+      <FileName>life.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMainFrame">
+    <Position X="27.75" Y="0.75" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAACAAAAAAAAAAACAAAiAAAgCAAAgAAAAAAAAAAABA=</HashCode>
+      <FileName>MainFrm.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CMyPlane">
+    <Position X="5" Y="6.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAkAIAAAAAAABgAKAABAACAAiAAAAgACAQAAAKhABAA=</HashCode>
+      <FileName>MyPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneGameApp">
+    <Position X="25.25" Y="6" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAAAAAAAAAAAAAABAAAAQAAAABAAAAAAA=</HashCode>
+      <FileName>PlaneGame.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneGameDoc">
+    <Position X="25.25" Y="3" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AAAAAAAAAAAAQAAACAAAgAAAACAgAAAQAAAAAAAAAAA=</HashCode>
+      <FileName>PlaneGameDoc.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CPlaneGameView">
+    <Position X="27.75" Y="4.25" Width="1.5" />
+    <NestedTypes>
+      <Enum Name="CPlaneGameView::ObjType" Collapsed="true">
+        <TypeIdentifier>
+          <NewMemberFileName>PlaneGameView.h</NewMemberFileName>
+        </TypeIdentifier>
+      </Enum>
+    </NestedTypes>
+    <TypeIdentifier>
+      <HashCode>AQADIDABAABAIhgCGIRI6AQEgAEAQAAEAAgICAAMQQA=</HashCode>
+      <FileName>PlaneGameView.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Class Name="CWingPlane">
+    <Position X="22.25" Y="1.25" Width="1.5" />
+    <TypeIdentifier>
+      <HashCode>AEECICAAAAAAAgAAAAAIACAAwAAgAAgAAQAAAgBABgQ=</HashCode>
+      <FileName>WingPlane.h</FileName>
+    </TypeIdentifier>
+  </Class>
+  <Font Name="Microsoft YaHei UI" Size="9" />
+</ClassDiagram>
